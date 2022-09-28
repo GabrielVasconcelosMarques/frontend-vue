@@ -1,0 +1,7 @@
+{
+  "name": "frontend-vue",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
