@@ -5,6 +5,9 @@
 ## Sobre
 - Aplicação desenvolvida em Vuejs seu objetivo é consumir a api criada pelo repositório [django-rest](https://github.com/GabrielVasconcelosMarques/django-rest) feito por mim, como backend desta aplicação.
 
+## Código da implementação
+- Favor, analisar código da implementação no arquivo ```index.html```
+
 ## Instruções de execução
 - Na sua IDE, executar o arquivo ```index.html```
 
